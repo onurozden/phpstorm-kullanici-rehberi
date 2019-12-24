@@ -10,7 +10,6 @@ Tüm özelliklere hakim olacak, onları anlayarak kolaylıkla kullanabileceksini
 # SÜRÜM : PhpStorm Kullanıcı Rehberi 0.1
 
 # İletişim
-Linkedin: https://www.linkedin.com/in/onurozdenio/<br/>
 Facebook Sayfamız: https://www.facebook.com/phpstormrehberi<br/>
 Facebook Grubumuz: https://www.facebook.com/groups/phpstormrehberi<br/>
 Github: https://github.com/onurozden/phpstorm_kullanici_rehberi<br/>
