@@ -1,6 +1,4 @@
-<center>
 # PhpStorm Kullanıcı Rehberi
-</center>
 # Çalışma sahibi: Onur Özden <info@onurozden.io>
 # Katkı sağlayanlar: 
 
