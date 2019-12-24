@@ -13,7 +13,7 @@ Tüm özelliklere hakim olacak, onları anlayarak kolaylıkla kullanabileceksini
 Linkedin: https://www.linkedin.com/in/onurozdenio/<br/>
 Facebook Sayfamız: https://www.facebook.com/phpstormrehberi<br/>
 Facebook Grubumuz: https://www.facebook.com/groups/phpstormrehberi<br/>
-Github: https://github.com/PhpStorm_Kullanici_Rehberi/archlinux_kullanici_kilavuzu<br/>
+Github: https://github.com/onurozden/phpstorm_kullanici_rehberi<br/>
 
 # Kullanıcı Rehberi Hakkında
 Bu belge Onur Özden tarafından Phpstorm adlı yazılımın kullanıcıları için hazırlanmıştır.<br/>
