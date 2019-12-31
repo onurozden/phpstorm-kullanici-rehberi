@@ -12,10 +12,10 @@ Tüm özelliklere hakim olacak, onları anlayarak kolaylıkla kullanabileceksini
 # İletişim
 Facebook Sayfamız: https://www.facebook.com/phpstormrehberi<br/>
 Facebook Grubumuz: https://www.facebook.com/groups/phpstormrehberi<br/>
-Github: https://github.com/onurozden/phpstorm_kullanici_rehberi<br/>
+Github: https://github.com/onurozden/phpstorm-kullanici-rehberi<br/>
 
 # Kullanıcı Rehberi Hakkında
 Bu belge Onur Özden tarafından Phpstorm adlı yazılımın kullanıcıları için hazırlanmıştır.<br/>
 Github üzerinden veya info@onurozden.io adresine mail atarak içeriğe katkıda bulunabilirsiniz.<br/>
 Bu kullanıcı rehberi tamamlandıktan sonra her PhpStorm güncellemesinde tekrar güncellenecektir.<br/>
-Belgeye katkı sağlayanların isimleri döküman sonunda "Katkı Sağlayan PhpStorm Kullanıcıları" bölümünde yayınlanmaktadır.<br/>
+Belgeye katkı sağlayanların isimleri döküman sonunda "Katkı Sağlayan PhpStorm Kullanıcıları" bölümünde ve README.md dosyasında yayınlanacaktır.<br/>
