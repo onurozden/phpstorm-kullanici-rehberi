@@ -1,6 +1,6 @@
 # PhpStorm Kullanıcı Rehberi
 # Çalışma sahibi: Onur Özden <info@onurozden.io>
-# Katkı sağlayanlar: Ahmet Husrev Çeker <ahusrevceker@gmail.com>
+# Katkı sağlayanlar: Ahmet Husrev Çeker
 
 Bu rehber ile PhpStorm ve diğer Jetbrains IDE'lerinin özellik dolu dünyasında kaybolmayacaksınız.<br/> 
 Tüm özelliklere hakim olacak, onları anlayarak kolaylıkla kullanabileceksiniz.<br/>
