@@ -6,7 +6,7 @@ Bu rehber ile PhpStorm ve diğer Jetbrains IDE'lerinin özellik dolu dünyasınd
 Tüm özelliklere hakim olacak, onları anlayarak kolaylıkla kullanabileceksiniz.<br/>
 
 
-# GÜNCELLEME: 12.01.2020 / 22:36 (UTC+03:00)
+# GÜNCELLEME: 23.01.2020 / 16:19 (UTC+03:00)
 # SÜRÜM : PhpStorm Kullanıcı Rehberi 0.1
 
 # İletişim
